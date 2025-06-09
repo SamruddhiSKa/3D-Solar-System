@@ -34,4 +34,4 @@ It can serve as:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/solar-system.git
+git clone https://github.com/SamruddhiSKa/solar-system.git
