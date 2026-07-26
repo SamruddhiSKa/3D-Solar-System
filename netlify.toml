@@ -1,0 +1,10 @@
+[build]
+  # No build command needed for static HTML site
+  publish = "."
+
+# Optional: Configure redirects if needed
+[[redirects]]
+  from = "/*"
+  to = "/solar system.html"
+  status = 200
+  force = true
