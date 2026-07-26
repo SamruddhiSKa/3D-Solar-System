@@ -58,6 +58,11 @@ This application works best in modern browsers that support WebGL and ES6 JavaSc
 - Safari
 - Edge
 
+Live Demo
+---------
+The project is deployed and accessible at:
+https://3dsolarsystemview.netlify.app/
+
 Deployment
 ----------
 This is a static website that can be deployed to any static hosting service such as:
